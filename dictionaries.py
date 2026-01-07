@@ -1,7 +1,7 @@
 # Dictionaries in python
 
 """
-A ldictionary is a built-in data structure in python used to store in key:value pairs.
+A dictionary is a built-in data structure in python used to store in key:value pairs.
 Dictionaries are mutable, ordered, keys must be unique.
 
 #opt 1
